@@ -3,3 +3,16 @@
   float: left;
   border-radius: 15%;
 }
+ /* CSS from w3Schools https://www.w3schools.com/howto/howto_js_slideshow.asp */
+.slideshow {
+  max-width: 100%;
+  position: center;
+  margin: auto;
+}
+
+.pre, .next {
+  cursor: pointer;
+  position: absolute;
+  width: auto;
+  color: green;
+}
